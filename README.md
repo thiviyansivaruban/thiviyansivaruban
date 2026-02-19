@@ -1,8 +1,10 @@
-- 👋 Hello, I’m Thiviyan :)
-- 👀 I’m interested in coding!
-- 🌱 I’m currently a high school student who is familiar with C#, Python, and VB.NET
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My favourite colour combination is blue and black!
+## Hi, I'm Thiviyan 👋
+
+🎓 Computer Engineering student at Toronto Metropolitan University  
+💻 Interested in software development, embedded systems, and problem-solving  
+🛠️ Languages: C, Java, C#, Python, VB.NET  
+🚀 Currently building projects to strengthen my fundamentals  
+📫 Open to internship opportunities
 
 <!---
 thiviyansivaruban/thiviyansivaruban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
